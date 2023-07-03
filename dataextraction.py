@@ -3,6 +3,9 @@
 ## Written 2020-2022
 ## Copyright info - See license file
 
+### - This file contains the methods for extracting joints position data from the EmoPain@Home dataset
+### - as well as extracting self-report labels from the dataset.
+
 import csv
 import os
 import json
