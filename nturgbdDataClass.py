@@ -5,6 +5,8 @@
 ## **Note** - getfulldata() is based on the _read_skeleton() method
 ## in https://github.com/shahroudy/NTURGB-D/blob/master/Python/txt2npy.py
 
+### - This file contains the class for processing NTU RGB+D joints position data
+### - to match the EmoPain@Home dataset, for the purpose of representation learning
 
 
 import csv
