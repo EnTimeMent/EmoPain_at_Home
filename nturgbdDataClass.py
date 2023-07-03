@@ -1,6 +1,6 @@
-## University College London - Temitayo Olugbade
-## 2021-2022
-## Copyright - GNU Public License v3
+## Code owned by University College London
+## Written 2020-2022
+## Copyright info - See license file
 ## 
 ## **Note** - getfulldata() is based on the _read_skeleton() method
 ## in https://github.com/shahroudy/NTURGB-D/blob/master/Python/txt2npy.py
