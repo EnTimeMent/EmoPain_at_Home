@@ -1,8 +1,7 @@
 
-## Code written by Temitayo Olugbade
-## for EU H2020 EnTimeMent project
-## - University College London - 2019-2022
-## - Copyright - GNU GENERAL PUBLIC LICENSE
+## Code owned by University College London
+## Written 2020-2022
+## Copyright info - See license file
 
 import csv
 import os
