@@ -1,15 +1,7 @@
-
-
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
-import numpy
-import os
-
-
-
-
-
-
+## Code owned by University College London
+## Written 2020-2022
+## Copyright info - See license file
+## 
 ## the visualize_... methods are the interface methods
 ## i.e. the methods to directly call in your own code
 ##
@@ -23,6 +15,20 @@ import os
 ## and 1 X T activity_labels to match
 ## activity_set = is the set of activity classes that exist in the data
 ## savefilepath = where you want to save the created video
+
+
+
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+import numpy
+import os
+
+
+
+
+
+
+
 
 
 
