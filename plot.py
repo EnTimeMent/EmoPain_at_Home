@@ -11,10 +11,14 @@
 ##
 ## the plot visualization works better if you have normalized the joint positions data, e.g., into range -1 to 1
 ##
-## they expect T x 6 x 3 joint_data
+## they expect T x 6 x 3 joint_data - T represents the number of frames and 3 represents x, y, z axes -
+## (the 6 joints, and their respective rows, expected are
+##  chestbottom=0, thigh=1, upperarm=2, lowerleg=3, forearm=4, hip=5) 
 ## and 1 X T activity_labels to match
 ## activity_set = is the set of activity classes that exist in the data
 ## savefilepath = where you want to save the created video
+##
+## PS: I can't remember why I had different sets of methods for NTURGB+D and EmoPain@Home
 
 
 
